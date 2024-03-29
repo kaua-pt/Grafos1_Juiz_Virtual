@@ -10,22 +10,43 @@
 | 18/0030736  |  Carla de Araújo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório tem como objetivo a realização de exercícios de grafos do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
+
+1 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/): Hard. [Vídeo](https://youtu.be/IVSBzCf2gkQ)
+</br>
+2 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/): Medium
+</br>
+3 -
+</br>
+4 - 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
+
+##### 1 - Shortest Path Visiting All Nodes
+![](assets/SPL.png)
+
+<div style="text-align: center">
+<p> Tabela 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
+</div>
+
+##### 2 - Course Schedule II
+##### 3 -
+##### 4 -
 
 ## Instalação 
 **Linguagem**: C++ e Python<br>
 
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Para os códigos python, execute:
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+```
+python <nome do arquivo>
+```
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para os códigos em c++, execute:
 
-
+```
+g++ -o <nomedoarquivo>.exe ./<nomedoarquivo>.cpp
+```
 
 
