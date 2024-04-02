@@ -14,7 +14,7 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
 
 1 - [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/): Hard. [Vídeo](https://youtu.be/IVSBzCf2gkQ)
 </br>
-2 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/): Medium
+2 - [Is graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/): Medium. [Vídeo](https://youtu.be/VP7QSoFTaUo)
 </br>
 3 -
 </br>
@@ -27,10 +27,16 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 ![](assets/SPL.png)
 
 <div style="text-align: center">
-<p> Tabela 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
+<p> Imagem 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 2 - Course Schedule II
+##### 2 - Is Graph Bipartite
+![](assets/IGB.png)
+
+<div style="text-align: center">
+<p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
+</div>
+
 ##### 3 -
 ##### 4 -
 
