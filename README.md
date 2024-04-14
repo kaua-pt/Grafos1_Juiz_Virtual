@@ -37,8 +37,19 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 3 -
-##### 4 -
+##### 3 - Clone Graph
+![](assets/CG.png)
+
+<div style="text-align: center">
+<p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
+</div>
+
+##### 4 - All Ancestors of a Node in a Directed Acyclic Graph
+![](assets/ancestors.png)
+
+<div style="text-align: center">
+<p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
+</div>
 
 ## Instalação 
 **Linguagem**: C++ e Python<br>
