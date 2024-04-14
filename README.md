@@ -16,9 +16,9 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
 </br>
 2 - [Is graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/): Medium. [Vídeo](https://youtu.be/VP7QSoFTaUo)
 </br>
-3 -
+3 - [Clone Graph](https://leetcode.com/problems/clone-graph/): Medium. [Vídeo](https://youtu.be/CpQevYXUe_I)
 </br>
-4 - 
+4 - [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/): Medium. [Vídeo](https://youtu.be/-OXN6MfXtes)
 
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
