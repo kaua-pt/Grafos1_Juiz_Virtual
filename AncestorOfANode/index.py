@@ -2,12 +2,20 @@ class Solution(object):
     def getAncestors(self, n, edges):
         ancestors_list = []
 
+        graph = {}
+        for edge in edges:
+            if edge[1] in graph:
+                graph[edge[1]].append(edge[0])
+            else:
+                graph[edge[1]] = [edge[0]]
+
         def dfs(node, visited, ancestors):
             visited[node] = True
-            for edge in edges:
-                if node == edge[1] and not visited[edge[0]]:
-                    ancestors.append(edge[0])
-                    dfs(edge[0], visited, ancestors)
+            if node in graph:
+                for adjacent_node in graph[node]:
+                    if not visited[adjacent_node]:
+                        ancestors.append(adjacent_node)
+                        dfs(adjacent_node, visited, ancestors)
 
         for node in range(n):
             visited = [False] * n
